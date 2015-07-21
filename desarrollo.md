@@ -79,28 +79,29 @@ En una etapa prelimminar para la definición de los alcances, con respecto a la 
     + **Gestión de usuarios**. Los usuarios del sistema poseerán sus respectivas cuentas con contraseña jerarquizadas de acuerdo al nivel de acceso a la información y a la configuración del sistema.
 
 ###Atributos de requerimientos
-Se describen los requerimientos segun su categoría y niveles de aplicación en el proyecto, sistematizando la forma en que se abordarán en grupos funcionales.
+>Se describen los requerimientos segun su categoría y niveles de aplicación en el proyecto, sistematizando la forma en que se abordarán en grupos funcionales.
 
   - Matriz de atributos funcionales
   
 ###Especificación de Requerimientos
-A partir del análisis de las matrices anteriores se generan *casos de uso*
+>A partir del análisis de las matrices anteriores se generan *casos de uso*
 
   - Modelos de casos de uso
   - Documentación de los casos de uso
   
 ##ARQUITECTURA DEL SISTEMA
-Representación general en diagramas de bloques por capas del proyecto
+>Representación general en diagramas de bloques por capas del proyecto
+
 ###Arquitectura general
-Se describe las capas componentes del sistema y su interacción, conformando la arquitectura general.
+>Se describe las capas componentes del sistema y su interacción, conformando la arquitectura general.
 
 ###Componentes de la red de medidores: Hardware
-La parte de hardware del sistema, la red de medidores de potencia, estará descrita en este acápite de manera detallada considerando principalmente:
+>La parte de hardware del sistema, la red de medidores de potencia, estará descrita en este acápite de manera detallada considerando principalmente:
   - Esquema de la red de medidores
   - Descripción de la arquitectura de la red de medidores
 
 ###Componentes del sistema de monitoreo
-La parte de software, el sistema de monitoreo y gestión en sí se detalla considerando también:
+>La parte de software, el sistema de monitoreo y gestión en sí se detalla considerando también:
   - Esquema del sistema de monitoreo
   - Descripción de las capas y componentes
   

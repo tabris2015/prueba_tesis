@@ -1,6 +1,9 @@
 #SECCIÓN III: DESARROLLO DEL PROYECTO: CONCEPCIÓN, REQUERIMIENTOS Y DISEÑO.
 > En esta sección se detallará la parte inicial del proyecto desde la concepción hasta el diseño del mismo, tanto en la parte de hardware como de software
+> 
+
 ##ANÁLISIS DE REQUERIMIENTOS
+
 > Se lista y especifican los requerimientos de manera formal para aplicarlos en el proyecto. Se realiza a través de models de casos de uso. También se analizan las restricciones.
 
 Se documenta la Especificación de requerimientos de manera formal para ser aplicada en el desarrollo del Proyecto de Grado. Ésta documentación se realiza a través de *Modelos de Casos de Uso*; y entre otras consideraciones, propias de la Metodología RUP, se describe el alcance de la finalidad concebida para el sistema, así como las restricciones consideradas en su diseño.
